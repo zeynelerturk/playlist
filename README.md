@@ -5,7 +5,7 @@
 
  <h1>  Harici kullanimlar </h1>
 
- Bu proje hazırlanırken harici kütüphane kullanılmamıştır. Geliştirilmeye açık bir platlist çalışması
+ Geliştirilmeye açık bir playlist çalışması
  
 
 <h1> ekran goruntusu </h1>
